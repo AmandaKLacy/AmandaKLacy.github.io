@@ -2,7 +2,7 @@
 
 ## Section 1: About Me
 **Name:** Amanda Lacy  
-![Amanda Lacy](profile.jpg "Amanda Lacy holding a bunch of fresh dates")
+![Amanda Lacy holding a bunch of fresh dates](profile.jpg "Amanda Lacy")
 
 **Why I am in this class:** I am a PhD student in Computer Science at Texas A&M University. I am taking this class to explore how software can better support communication and coordination for diverse users. As a congenitally blind individual on the autism spectrum, I am particularly interested in sensory substitution and the design of interfaces that respect cognitive load. My goal is to understand how we can create collaborative tools that are more accessible and less overwhelming for those with different sensory processing needs.
 
