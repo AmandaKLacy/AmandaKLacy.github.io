@@ -23,7 +23,7 @@
 The features that help me the most are those that maintain a **simple, predictable interface**. Email is the gold standard for me because it allows for granular control; I can review every single line someone typed at my own pace using keyboard commands. I also find the iOS version of Slack helpful compared to the desktop version because its simplified layout reduces the cognitive noise and makes navigation via VoiceOver more intuitive.
 
 ### What Could Be Better
-Modern collaborative software often prioritizes "feature richness" over **focus management and text navigation**. 
+Modern collaborative software often prioritizes feature richness over **focus management and text navigation**. 
 * **Granular Review:** Many apps, like the Zoom chat or Slack, often present messages as a single, massive block of text. This is a significant barrier. For example, if an advisor sends a long message with multiple paragraphs in a Zoom chat, the screen reader reads the entire thing at once. If I have a question about a specific sentence in the middle, I cannot "arrow" back to that specific line to review it. 
 * **Reducing Clutter:** Many tools are visually and structurally cluttered, which can be overwhelming and make it easy to get lost in the interface. 
 * **Focus Control:** I would like to see tools that allow for better text isolation, enabling a screen reader user to navigate and review incoming chat messages with the same level of precision as a standard text document or email thread.
